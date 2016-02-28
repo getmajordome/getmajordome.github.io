@@ -29,7 +29,7 @@ body {
     font-size: 2.6em;
     font-family: 'Cinzel Decorative', cursive;
 }
-@media (max-width: 480px {
+@media (max-width: 480px){
 .wrapper h1 {font-size: 1.8em;}
 }
 .wrapper h2.number {
